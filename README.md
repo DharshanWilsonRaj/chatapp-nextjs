@@ -1,3 +1,9 @@
+
+Steps Followed:
+1. First Used Websocket for basic send message
+2. used Socket.Io for boardcast the message to all users
+3. send to registered user for only 
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
